@@ -6,4 +6,6 @@
     echo "dados digitados:  <br/>
     $name <br/> $address <br/>
     $phone <br/>";
+    print_r($connection);
+    die();
 ?>
